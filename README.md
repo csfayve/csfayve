@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Fayve but please call me Fay!
+I am a self taught Data Analyst, here is a few facts about me!
+
+- 🔭 I’m currently working with data from McDonald menu file.
+- 🥸 I'm fluent with Python, Excel and Tableau.
+- 🌱 I’m currently learning C++, Unreal Engine 5, Blender, mySQL.
+- 👾 My hobbies are: Game Dev, Working with Data, Reading and Ice Skating.
+- 📫 How to reach me:
+- - Twitter: https://twitter.com/csFayve
 <!--
 **csfayve/csfayve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
